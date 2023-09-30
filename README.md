@@ -1,4 +1,4 @@
 # github-demo
-Mon premier repositories
+Mon premier repositorie.
 <br>
 Auteur-Elise 
